@@ -1,3 +1,5 @@
+This fork is for portable build of Tiled. This builds have config stored in tiled.ini file.
+
 Tiled Map Editor - https://www.mapeditor.org/
 
 About Tiled
